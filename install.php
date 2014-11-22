@@ -1,6 +1,6 @@
 <?php
 
-	# install.php?shop=e.myshopify.com
+	# install.php?shop=example-shop.myshopify.com
 
 	require __DIR__.'/vendor/autoload.php';
 	use phpish\shopify;
