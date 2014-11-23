@@ -1,5 +1,5 @@
 ```
-git clone --depth 1 --branch master https://github.com/phpish/shopify-skeleton.git new_prj
+git clone --depth 1 --branch master https://github.com/phpish/shopify_app-skeleton.git new_prj
 cd new_prj
 rm -rf .git
 rm README.md
